@@ -21,9 +21,9 @@ The goal of the app is to provide a tool for music enthusiasts, built with Spoti
       - Can be done through Spotify api website
 ~Setup Instructions~
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/music-discovery-app.git
-cd music-discovery-app
+- ```bash
+- git clone https://github.com/yourusername/music-discovery-app.git
+- cd music-discovery-app
 2. pip install spotipy
 3. Include you own client id and client secret
 4. Run the app
