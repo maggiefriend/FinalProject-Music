@@ -22,12 +22,12 @@ The goal of the app is to provide a tool for music enthusiasts, built with Spoti
 
 {Setup Instructions}
 1. Clone the repository
-- ```bash
-- git clone https://github.com/yourusername/music-discovery-app.git
-- cd music-discovery-app
-2. pip install spotipy
-3. Include you own client id and client secret
-4. Run the app
+2. ```bash
+git clone https://github.com/yourusername/music-discovery-app.git
+cd music-discovery-app
+3. pip install spotipy
+4. Include you own client id and client secret
+5. Run the app
 
 # System Architecture
 This project is host on Github and Built using Visual Studio code on a Dell Inspiron 16 7630 2-in-1
