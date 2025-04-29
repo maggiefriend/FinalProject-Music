@@ -3,9 +3,9 @@
 idea influence: looking to possibly create a music app using python that helps users explore new songs and 
 artists based on their preference using a music data api to track details for a final project
 
-Final Presentation explaing the rest fo the information: https://docs.google.com/presentation/d/1OQiLcGwHk2iexwyl7CmzQB6SnGkZ3FYH7twFElUC7kk/edit?usp=sharing
+Final Presentation explaining the rest of the information: https://docs.google.com/presentation/d/1OQiLcGwHk2iexwyl7CmzQB6SnGkZ3FYH7twFElUC7kk/edit?usp=sharing
 
-**Description**
+# Description
 The **Music App** is a command-line Python application that allows users to explore music through the Spotify Web API. Users can:
 - Search for their favorite artists
 - View an artist's top tracks
@@ -13,7 +13,7 @@ The **Music App** is a command-line Python application that allows users to expl
 - Discover related artists based on Spotify’s recommendation engine
 The goal of the app is to provide a tool for music enthusiasts, built with Spotify API integration and user-friendly functionality.
 
-**Installation**
+# Installation
 ~Prerequisites~
 - Python Access
 - A Spotify Developer account
@@ -28,10 +28,10 @@ cd music-discovery-app
 3. Include you own client id and client secret
 4. Run the app
 
-**System Architecture**
+# System Architecture
 This project is host on Github and Built using Visual Studio code on a Dell Inspiron 16 7630 2-in-1
 
-**Component Design**
+# Component Design
 create_spotify_client() --	Handles authentication and returns a Spotify client
 search_track() -- Searches for tracks using a query string
 get_recommendations()	-- Retrieves similar tracks based on a seed track
@@ -40,8 +40,8 @@ get_audio_features()	-- Fetches audio features of a selected track
 get_related_artists()	-- Finds artists related to a given artist
 main()	-- Coordinates the user interaction and function calls
 
-**Usage/Help**
+# Usage/Help
 Throughout building this python project I have used Copilot Chat 4.0 to help with errors and documentation throughout my program.
-This has allowed me to remove unecessary code and focus on the goal of the program.
-Each time I was faced with an error I could not directly fix myself, I used this to deifne the problem and simplify the error message
-in order that I can solve the problem and elimnate random information. 
+This has allowed me to remove unnecessary code and focus on the goal of the program.
+Each time I was faced with an error I could not directly fix myself, I used this to define the problem and simplify the error message
+in order that I can solve the problem and eliminate random information. 
