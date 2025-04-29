@@ -14,12 +14,12 @@ The **Music App** is a command-line Python application that allows users to expl
 The goal of the app is to provide a tool for music enthusiasts, built with Spotify API integration and user-friendly functionality.
 
 # Installation
-~Prerequisites~
+{Prerequisites}
 - Python Access
 - A Spotify Developer account
 - Your own Spotify API credentials (Client ID & Secret)
       - Can be done through Spotify api website
-~Setup Instructions~
+{Setup Instructions}
 1. Clone the repository
 - ```bash
 - git clone https://github.com/yourusername/music-discovery-app.git
