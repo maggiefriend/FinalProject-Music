@@ -39,11 +39,17 @@ This project is host on Github and Built using Visual Studio code on a Dell Insp
 
 # Component Design
 create_spotify_client() --	Handles authentication and returns a Spotify client
+
 search_track() -- Searches for tracks using a query string
+
 get_recommendations()	-- Retrieves similar tracks based on a seed track
+
 get_top_tracks()	-- Gets an artist’s top 5 tracks
+
 get_audio_features()	-- Fetches audio features of a selected track
+
 get_related_artists()	-- Finds artists related to a given artist
+
 main()	-- Coordinates the user interaction and function calls
 
 # Usage/Help
