@@ -1,7 +1,5 @@
 import os
 import spotipy
-import csv
-import matplotlib.pyplot as plt
 from spotipy.oauth2 import SpotifyClientCredentials
 
 SPOTIPY_CLIENT_ID=("1b5d2950233141f786e6197424829441")
